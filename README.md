@@ -1,6 +1,6 @@
 # API Exercise - Schools
 
-[Question Only](./Question)
+[Question Only](./Question.md)
 
 Use any language and any frameworks/libraries you wish. Consult the internet as necessary.
 
