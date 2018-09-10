@@ -41,7 +41,7 @@ func CreateSchool(w http.ResponseWriter, r *http.Request) {
 
 	schools = append(schools, school)
 
-	json.NewEncoder(w).Encode("success")
+	json.NewEncoder(w).Encode(school)
 }
 
 func UpdateSchool(w http.ResponseWriter, r *http.Request) {
