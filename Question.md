@@ -4,6 +4,7 @@ Use any language and any frameworks/libraries you wish. Consult the internet as 
 
 1. Generate test data consisting of a list of schools:
     * each school will have an integer `id` and string `name`
+    * you may keep the data in memory (no db required)
 2. Create endpoint to list all schools
 3. Create endpoint to get individual school by `id`
 4. Create endpoint to add new school

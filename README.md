@@ -1,5 +1,7 @@
 # API Exercise - Schools
 
+[Question Only](./Question)
+
 Use any language and any frameworks/libraries you wish. Consult the internet as necessary.
 
 1. Generate test data consisting of a list of schools:
